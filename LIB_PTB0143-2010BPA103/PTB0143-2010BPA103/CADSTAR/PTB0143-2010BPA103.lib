@@ -1,0 +1,17 @@
+.PTB0143-2010BPA103 :1 ;10 kOhms 0.25W, 1/4W Through Hole Slide Potentiometer Top Adjustment Type
+PTB01432010BPA103
+*STM VR
+*NGS
+*PNM 1=1 2=2 3=3 4=MH1 5=MH2
+*PLB 1="CCW" 2="WIPER " 3="CW" 4="MH1" 5="MH2"
+*MXP 5
+*DFN PTB0143-2010BPA103
+~!Mouser Part Number (652-PTB1432010BPA103)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/PTB0143-2010BPA103?qs=h2IHEVivlqBK9DJYgx59Pg%3D%3D)
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (PTB0143-2010BPA103)
+~!Link Datasheet (https://www.bourns.com/docs/product-datasheets/ptb.pdf)
+~!Height (18mm)
+~!3D_Model (PTB0143-2010BPA103)
+PTB0143-2010BPA103
+1.1!U 2.1!U 3.1!U 4.1!U 5.1!U 

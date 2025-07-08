@@ -3589,7 +3589,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 262.89 34.29 0)
 			(effects
 				(font
@@ -3660,7 +3660,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 173.99 34.29 0)
 			(effects
 				(font
@@ -3688,13 +3688,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c9")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0f")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ad")
 		)
 		(instances
 			(project ""
@@ -3731,7 +3731,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 224.79 34.29 0)
 			(effects
 				(font
@@ -3759,13 +3759,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3ca")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f10")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ae")
 		)
 		(instances
 			(project ""
@@ -3802,7 +3802,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 121.92 0)
 			(effects
 				(font
@@ -3870,7 +3870,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 148.59 34.29 0)
 			(effects
 				(font
@@ -3898,13 +3898,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3cb")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f11")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2af")
 		)
 		(instances
 			(project ""
@@ -3941,7 +3941,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 161.29 34.29 0)
 			(effects
 				(font
@@ -3969,13 +3969,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3cc")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f12")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2b0")
 		)
 		(instances
 			(project ""
@@ -4012,7 +4012,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 135.89 34.29 0)
 			(effects
 				(font
@@ -4040,13 +4040,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3cd")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f13")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2b1")
 		)
 		(instances
 			(project ""
@@ -4083,7 +4083,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 199.39 34.29 0)
 			(effects
 				(font
@@ -4111,13 +4111,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3ce")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f14")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2b2")
 		)
 		(instances
 			(project ""
@@ -4154,7 +4154,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 68.58 121.92 0)
 			(effects
 				(font
@@ -4182,10 +4182,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2aa")
+			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2ab")
 		)
 		(pin "1"
-			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe0")
+			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe1")
 		)
 		(instances
 			(project ""
@@ -4222,7 +4222,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 147.32 0)
 			(effects
 				(font
@@ -4250,10 +4250,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2aa")
+			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2ac")
 		)
 		(pin "1"
-			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe0")
+			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe2")
 		)
 		(instances
 			(project ""
@@ -4290,7 +4290,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 250.19 34.29 0)
 			(effects
 				(font
@@ -4318,13 +4318,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3cf")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f15")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2b3")
 		)
 		(instances
 			(project ""
@@ -4361,7 +4361,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 123.19 34.29 0)
 			(effects
 				(font
@@ -4751,7 +4751,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 43.18 134.62 0)
 			(effects
 				(font
@@ -4779,10 +4779,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2aa")
+			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2ad")
 		)
 		(pin "1"
-			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe0")
+			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe3")
 		)
 		(instances
 			(project ""
@@ -4819,7 +4819,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 186.69 34.29 0)
 			(effects
 				(font
@@ -4847,13 +4847,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3d0")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f16")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2b4")
 		)
 		(instances
 			(project ""
@@ -4890,7 +4890,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 68.58 134.62 0)
 			(effects
 				(font
@@ -4918,10 +4918,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2aa")
+			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2ae")
 		)
 		(pin "1"
-			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe0")
+			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe4")
 		)
 		(instances
 			(project ""
@@ -4958,7 +4958,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 237.49 34.29 0)
 			(effects
 				(font
@@ -4986,13 +4986,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3d1")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f17")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2b5")
 		)
 		(instances
 			(project ""
@@ -5029,7 +5029,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_THT:PTB01432010BPA103"
 			(at 212.09 34.29 0)
 			(effects
 				(font
@@ -5057,13 +5057,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3c8")
+			(uuid "5f353e5d-204f-4f00-8686-4dbda69ee3d2")
 		)
 		(pin "2"
-			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f0e")
+			(uuid "cd369168-c01a-4d13-afd7-b9ad36325f18")
 		)
 		(pin "1"
-			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2ac")
+			(uuid "9bec264d-6864-4a17-a65d-4b69bb87b2b6")
 		)
 		(instances
 			(project ""
@@ -5100,7 +5100,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
 			(at 68.58 147.32 0)
 			(effects
 				(font
@@ -5128,10 +5128,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2aa")
+			(uuid "6c76534b-8b51-4da3-bf90-7799e0e8a2af")
 		)
 		(pin "1"
-			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe0")
+			(uuid "7686e2f8-bc16-4b1a-baf7-0907cc23cfe5")
 		)
 		(instances
 			(project ""

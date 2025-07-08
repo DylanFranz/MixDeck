@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=PTB0143-2010BPA103
+PartCategory=Variable Resistor
+PackageCategory=Other
+PinCount=5
+Version=1.6
+Released=2022-03-10 08:44:03
+Downloaded=2025-07-05 23:48:35
+3D=Y
